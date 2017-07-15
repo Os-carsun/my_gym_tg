@@ -1,0 +1,10 @@
+[GYM]
+
+list=http://dasc.cyc.org.tw/,http://cssc.cyc.org.tw/,http://ngsc.cyc.org.tw/,http://xysc.cyc.org.tw/,http://wssc.cyc.org.tw/,http://lzcsc.cyc.org.tw/,http://tccsc.cyc.org.tw/,http://xzcsc.cyc.org.tw/,http://yhcsc.cyc.org.tw/,http://cmcsc.cyc.org.tw/,http://styac.cyc.org.tw/
+name_list=dasc:大安,cssc:中山,ngsc:南港,xysc:信義,wssc:文山,lzcsc:蘆洲,tccsc:土城,xzcsc:汐止,yhcsc:永和,cmcsc:朝馬,styac:南區
+
+
+[TG]
+
+token=
+chat_id=
